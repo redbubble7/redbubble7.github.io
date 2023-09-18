@@ -1,0 +1,39 @@
+h1{
+    color:rgb(255, 219, 146);
+}
+
+#wrapper{
+    width:800px;
+    margin:0 auto;
+}
+
+#banner{
+    width: 800px;
+    height:200px;
+    background-color: pink;
+    clear:both;
+}
+
+#nav{
+    width:100px;
+    background-color:lightcoral;
+}
+
+#content{
+    width:800px;
+    float:left;
+}
+
+#info{
+    width:100px;
+    height:150px;
+    background-color: mediumpurple;
+    float:left;
+}
+
+#footer{
+    width:800px;
+    height:100px;
+    background-color: plum;
+    clear:both;
+}
